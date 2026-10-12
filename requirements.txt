@@ -1,4 +1,1 @@
-tensorflow-cpu
-gradio
-pillow
-numpy
+tensorflow
