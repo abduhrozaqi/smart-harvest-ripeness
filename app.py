@@ -119,9 +119,7 @@ demo = gr.Interface(
     ],
     title=title,
     description=description,
-    article=article,
-    allow_flagging="never",
-    theme=gr.themes.Soft()
+    article=article
 )
 
 # ============================================================
